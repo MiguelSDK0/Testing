@@ -3,3 +3,4 @@ from .palindromo_capicua_test import *
 from .anagrama_test import *
 from .primos2_test import *
 from .stats_test import *
+from .suma_test import *
